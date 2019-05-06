@@ -1,0 +1,11 @@
+F:\Languages\C#\Design Pattern\factoryMethod\bin\Debug\netcoreapp2.1\factoryMethod.deps.json
+F:\Languages\C#\Design Pattern\factoryMethod\bin\Debug\netcoreapp2.1\factoryMethod.runtimeconfig.json
+F:\Languages\C#\Design Pattern\factoryMethod\bin\Debug\netcoreapp2.1\factoryMethod.runtimeconfig.dev.json
+F:\Languages\C#\Design Pattern\factoryMethod\bin\Debug\netcoreapp2.1\factoryMethod.dll
+F:\Languages\C#\Design Pattern\factoryMethod\bin\Debug\netcoreapp2.1\factoryMethod.pdb
+F:\Languages\C#\Design Pattern\factoryMethod\obj\Debug\netcoreapp2.1\factoryMethod.csprojAssemblyReference.cache
+F:\Languages\C#\Design Pattern\factoryMethod\obj\Debug\netcoreapp2.1\factoryMethod.csproj.CoreCompileInputs.cache
+F:\Languages\C#\Design Pattern\factoryMethod\obj\Debug\netcoreapp2.1\factoryMethod.AssemblyInfoInputs.cache
+F:\Languages\C#\Design Pattern\factoryMethod\obj\Debug\netcoreapp2.1\factoryMethod.AssemblyInfo.cs
+F:\Languages\C#\Design Pattern\factoryMethod\obj\Debug\netcoreapp2.1\factoryMethod.dll
+F:\Languages\C#\Design Pattern\factoryMethod\obj\Debug\netcoreapp2.1\factoryMethod.pdb
